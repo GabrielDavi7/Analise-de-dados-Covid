@@ -9,4 +9,4 @@ Análise Exploratória (EDA): Visualização e exploração dos dados para extra
 Seleção de Características e Modelagem: Utilização de técnicas para selecionar as variáveis mais importantes e treinar um modelo de classificação para prever a necessidade de intubação.
 
 
-**LINK Resultados: ** https://colab.research.google.com/drive/1Irt56fRHGlgX5p0kUjvSp07wsYOt0w9i?usp=sharing
+**LINK Resultados:** https://colab.research.google.com/drive/1Irt56fRHGlgX5p0kUjvSp07wsYOt0w9i?usp=sharing
