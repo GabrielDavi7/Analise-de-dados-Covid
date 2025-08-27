@@ -10,4 +10,5 @@ Seleção de Características e Modelagem: Utilização de técnicas para seleci
 
 
 **LINK Resultados:** https://colab.research.google.com/drive/1Irt56fRHGlgX5p0kUjvSp07wsYOt0w9i?usp=sharing
+
 **LINK Base Dados:** https://www.kaggle.com/datasets/meirnizri/covid19-dataset
